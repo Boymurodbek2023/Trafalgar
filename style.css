@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.title{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.step_one{
+    display: flex;
+    align-items: center;
+    
+}
+.text_li{
+    list-style: none;
+    display:flex ;
+    
+    margin-left: 600px;
+}
+.li_class{
+    padding: 15px;
+    font-size: 18px;
+}
+.hero{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.title_h1{
+    padding-left: 10px;
+    font-size: 24px;
+}
+.hero_text{
+    font-size: 21px;
+
+}
+.text_two{
+    font-size: 48px;
+}
+.text_trafal{
+    font-size: 21px;
+}
+.border{
+    background-color:rgb(1, 102, 255);
+    border-radius: 35px;
+    width: 200px;
+    height: 60px;
+    color: white;
+    border: none;
+    margin: 20px;
+    font-size: 18px;
+}
+.text_h3{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
+.step_two_p{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+.title_two{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.wrapper{
+display: flex;
+}
+.box{
+    margin: 20px 200px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+    width: 350px;
+    /* height: 354px; */
+    /* background-color: aqua; */
+    /* margin-bottom: 10px; */
+    /* padding: 50px 30px; */
+}
+.border_two{
+    margin: 0 auto;
+    border-radius: 35px;
+    font-size: 18px;
+    background-color:rgb(255, 255, 255);
+    color: rgb(39, 155, 233);
+    border: solid rgb(39, 155, 233);;
+    width: 200px;
+    height: 60px;
+}
+.step_three{
+    display: flex;
+    justify-content: space-evenly;
+}
+.border_3{
+    border-radius: 35px;
+    width: 200px;
+    height: 56px;
+    background-color:rgb(255, 255, 255);
+    color: rgb(39, 155, 233);
+    border: solid rgb(39, 155, 233);
+    font-size: 18px;
+}
+.step_for{
+
+    border-radius: 25px;
+    width: 1200px;
+    height: 502px   ;
+    background-color: rgb(29, 161, 223);
+}
+.text_h5{
+    display:flex ;
+    justify-content: center;
+    font-size: 36px;
+    color: white;
+}
